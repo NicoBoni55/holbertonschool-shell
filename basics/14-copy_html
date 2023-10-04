@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u index.html
+cp -u /tmp/file.html
