@@ -1,0 +1,2 @@
+#!/bin/bash
+grap -n bin /etc/passwd
