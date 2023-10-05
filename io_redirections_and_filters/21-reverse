@@ -1,2 +1,2 @@
 #!/bin/bash
-rv tr -d [cC]
+rev 
