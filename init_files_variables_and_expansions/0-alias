@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ='ls -l'
+alias [-p] [ls=rm*]
